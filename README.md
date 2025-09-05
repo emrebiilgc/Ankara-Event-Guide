@@ -1,2 +1,2 @@
-# website-try
-My first attempt to create a website
+# Ankara-Event-Guide
+Only-read website for events in Ankara
